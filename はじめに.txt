@@ -1,0 +1,14 @@
+data.zipには講義中で使われるコマンドでコピーペーストで活用しても良いものを
+まとめています。作業の短縮に活用ください。
+
+「同梱物」
+Linux（2）入力スクリプト.txt
+Linux（3）入力スクリプト.txt
+index.html    ---  Linux（3）のApache演習で使用。
+virtual_serv.conf   ---　Linux（3）のApache演習で使用。
+
+ダウンロードURL
+https://learningfit.s3.ap-northeast-1.amazonaws.com/data.zip
+
+AmazonLnux2023 ログイン情報は下記のファィルを参照してください。
+AmazonLinux2023-WSL-login-info.txt

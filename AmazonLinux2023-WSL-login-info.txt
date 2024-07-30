@@ -1,0 +1,7 @@
+Amazon Linuxユーザーログイン情報
+
+login :seplus
+password: $$391234LL
+
+login: root
+password: Seplus&2024k
